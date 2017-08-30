@@ -23,3 +23,12 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
  Create your response below this line. 
  ------------------
 
+## *A Favorite Quote*
+> y'know i'm not gonna diss u the internet, cause my mama taught me better than that!!!!
+## *A Favorite Photo*
+![alt text](http://www.motherearthnews.com/-/media/Images/MEN/Editorial/Articles/Magazine-Articles/2015/12-01/Beautiful-Vegetable-Portraits-Lynn-Karlins-Pedestal-Series/late-summer-still-life-jpg.jpg) 
+[Source](http://www.motherearthnews.com)
+## *A Favorite Photo*
+The biggest questions I have going into this class are:
+1. What are some terms which I need to become familiar with?
+2. How can having DH skills help with research in classics?
